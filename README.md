@@ -39,7 +39,7 @@
 
 
 
-![](C:\Users\PC\Desktop\그래프 1.png)
+![그래프 1](https://user-images.githubusercontent.com/80325051/121377225-21cb5200-c97d-11eb-9d1a-d6c4f2115340.png)
 
 * 그래프의 점은 키에 따른 발 사이즈르 나타냄
 * 회귀식 :  y = 2x - 81
